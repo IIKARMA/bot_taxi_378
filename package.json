@@ -1,0 +1,24 @@
+{
+  "name": "air",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/nodemon": "^1.19.2",
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@types/node": "18.11.3",
+    "@types/node-telegram-bot-api": "0.53.6",
+    "dotenv": "14.2.0",
+    "node-telegram-bot-api": "0.56.0",
+    "telegram": "2.4.3"
+  },
+  "engines": {
+    "node": "16.7.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
